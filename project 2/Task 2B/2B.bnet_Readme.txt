@@ -1,0 +1,17 @@
+
+
+
+
+Complete Flow of Code
+1. Intializing required variables globally
+2. get_prob_with_given -> function to find probaility when given is there
+3. get_prob -> function to get probabilities
+4. get_notation -> function to get notation
+5. get_parent_node -> function to get parent nodes
+6. calculating_probability -> function to compute probabilities
+7. __main__ -> Main Function
+
+Commands to run file 
+->python bnet.py Jt given Et Bf
+->python bnet.py Jf Mt given Et
+

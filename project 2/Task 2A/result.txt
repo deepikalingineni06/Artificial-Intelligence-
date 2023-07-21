@@ -1,0 +1,57 @@
+Observation sequence Q: CCCCC
+Length of Q: 5
+
+After Observation 1 = C
+
+P(h1 | Q) = 0.2
+P(h2 | Q) = 0.30000000000000004
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.1
+P(h5 | Q) = 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.65
+Probability that the next candy we pick will be L, given Q: 0.35
+
+After Observation 2 = C
+
+P(h1 | Q) = 0.3076923076923077
+P(h2 | Q) = 0.3461538461538462
+P(h3 | Q) = 0.3076923076923077
+P(h4 | Q) = 0.038461538461538464
+P(h5 | Q) = 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.730769230769
+Probability that the next candy we pick will be L, given Q: 0.269230769231
+
+After Observation 3 = C
+
+P(h1 | Q) = 0.4210526315789474
+P(h2 | Q) = 0.3552631578947369
+P(h3 | Q) = 0.2105263157894737
+P(h4 | Q) = 0.013157894736842106
+P(h5 | Q) = 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.796052631579
+Probability that the next candy we pick will be L, given Q: 0.203947368421
+
+After Observation 4 = C
+
+P(h1 | Q) = 0.5289256198347108
+P(h2 | Q) = 0.33471074380165294
+P(h3 | Q) = 0.1322314049586777
+P(h4 | Q) = 0.004132231404958678
+P(h5 | Q) = 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.847107438017
+Probability that the next candy we pick will be L, given Q: 0.152892561983
+
+After Observation 5 = C
+
+P(h1 | Q) = 0.624390243902439
+P(h2 | Q) = 0.2963414634146342
+P(h3 | Q) = 0.07804878048780488
+P(h4 | Q) = 0.0012195121951219512
+P(h5 | Q) = 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.885975609756
+Probability that the next candy we pick will be L, given Q: 0.114024390244

@@ -1,0 +1,29 @@
+
+
+programming language used: python
+
+Main Code Flow:
+1. taking required global variables
+2. For Loop -> Find totaal probabilities
+3. For Loop -> Calculate final probabilities
+    Internal For Loop -> to sum new probabilites to get final one
+4. Dump the answer to text file
+
+Commands to run file 
+-> python compute_a_posteriori.py CLLCCLLLCCL
+-> python compute_a_posteriori.py LCCCCCCCCCCCLLLLLLLLLLLLLLLLLLLLLLL
+-> python compute_a_posteriori.py CCCCC
+-> python compute_a_posteriori.py CCCCCCCCCCCCCCCCCCCCCCCCCCCCCL
+-> python compute_a_posteriori.py LLLLLLLLLLCCCCCCCCCC
+-> python compute_a_posteriori.py LCLCLCLC
+
+After execution the result will be shown in "result.txt"
+path:sxl4255_proj2/Task 2A/result
+
+Console Commands to run file
+-> runfile('compute_a_posteriori.py',args="CLLCCLLLCCL")
+-> runfile('compute_a_posteriori.py',args="LCCCCCCCCCCCLLLLLLLLLLLLLLLLLLLLLLL")
+-> runfile('compute_a_posteriori.py',args="CCCCC")
+-> runfile('compute_a_posteriori.py',args="CCCCCCCCCCCCCCCCCCCCCCCCCCCCCL")
+-> runfile('compute_a_posteriori.py',args="LLLLLLLLLLCCCCCCCCCC")
+-> runfile('compute_a_posteriori.py',args="LCLCLCLC")
